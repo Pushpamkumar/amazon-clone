@@ -3,7 +3,7 @@ name: 🚀 Deploy Static Amazon Clone
 on:
   push:
     branches:
-      - master  # or 'main' if that's your branch
+      - main # or 'main' if that's your branch
 
 jobs:
   build-and-push:
